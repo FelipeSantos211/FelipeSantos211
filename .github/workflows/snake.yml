@@ -10,12 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
+      - name: Ensure output dir exists
+        run: mkdir -p output
+
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: FelipeSantos211
-          outputs: dist/github-contribution-grid-snake.svg
-      - name: Push Snake Animation
+          outputs: output/github-contribution-grid-snake.svg
+
+      - name: Show files for debugging
+        run: |
+          echo "=== repo root ==="
+          ls -la
+          echo "=== output dir ==="
+          ls -la output || true
+
+      - name: Commit Snake Animation
         uses: EndBug/add-and-commit@v9
         with:
           message: "generated snake game"

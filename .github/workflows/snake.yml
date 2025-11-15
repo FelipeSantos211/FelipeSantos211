@@ -1,5 +1,9 @@
 name: Generate Snake Game
 
+# Permissões necessárias para poder commitar de volta no repo
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -10,6 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          # permite usar o GITHUB_TOKEN para push (true é padrão, mas declarado para deixar explícito)
+          persist-credentials: true
 
       - name: Ensure output dir exists
         run: mkdir -p output
@@ -32,3 +39,4 @@ jobs:
         with:
           message: "generated snake game"
           add: "output/github-contribution-grid-snake.svg"
+          # usa o GITHUB_TOKEN automaticamente se persist-credentials: true estiver setado

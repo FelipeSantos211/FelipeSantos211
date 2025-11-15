@@ -43,11 +43,11 @@
 
 ---
 
-## 🐍 A Cobrinha Comendo Seu Código
+## 🐍 Snake (contribuições)
 
-<div align="center">
-  <img src="https://github.com/FelipeSantos211/FelipeSantos211/output/github-contribution-grid-snake.svg" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FelipeSantos211/FelipeSantos211/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 

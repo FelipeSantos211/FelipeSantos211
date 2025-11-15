@@ -46,7 +46,7 @@
 ## 🐍 Snake (contribuições)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FelipeSantos211/FelipeSantos211/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/FelipeSantos211/FelipeSantos211/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---

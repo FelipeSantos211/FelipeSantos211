@@ -46,7 +46,7 @@
 ## 🐍 A Cobrinha Comendo Seu Código
 
 <div align="center">
-  <img src="https://github.com/FelipeSantos211/FelipeSantos211/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/FelipeSantos211/FelipeSantos211/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---

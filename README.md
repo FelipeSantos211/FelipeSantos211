@@ -40,27 +40,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantos211&show_icons=true&theme=tokyonight" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos211&layout=compact&theme=tokyonight" />
 </div>
-
----
-
-## 🐍 Snake (contribuições)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FelipeSantos211/FelipeSantos211/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🔗 Contatos
-
-<a href="https://www.linkedin.com/in/felipesantos211" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:felipe.dev.backend@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
 ---
 
 <h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>

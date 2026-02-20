@@ -34,12 +34,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeSantos211&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos211&layout=compact&theme=tokyonight" />
-</p>
----
-
 <h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
